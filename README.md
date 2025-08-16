@@ -61,7 +61,7 @@
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/ahsanumair1199/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/contact-ahsan/)
 [![Gmail](https://img.shields.io/badge/-Email-red?logo=gmail&style=flat-square)](mailto:ahsanumair1199@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat-square)](https://github.com/ahsanumair1199)
 
